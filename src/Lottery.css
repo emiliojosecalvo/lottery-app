@@ -1,0 +1,22 @@
+.Lottery {
+border: 2px solid green;
+border-radius: 0.5em;
+margin: 1em auto;
+padding: 1em;
+max-width: 800px;
+
+}
+
+
+.Lottery-button {
+background-color: rgb(76, 76, 114);
+font-size: 1.5em;
+padding: 0.5em;
+margin: 1em;
+border-radius: 0.5em;
+}
+
+.Lottery-button:hover {
+background-color: white;
+cursor: pointer;
+}
